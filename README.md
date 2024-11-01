@@ -24,3 +24,8 @@ This project is designed to provide an efficient, automated solution for **real-
 **Libraries:** **Netmiko** (SSH connections), **Requests** (API handling), **Twilio** (SMS alerts), **Mailgun** (email alerts)
 
 **Environment:** **EVE-NG** for network simulation, **PyCharm** for development 
+
+
+
+
+**Note**- Dummy Credentials are used here and it is not connected to any live network.
